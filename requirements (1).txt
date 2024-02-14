@@ -11,4 +11,4 @@ matplotlib
 joblib
 streamlit
 requests
-openpyxl
+
